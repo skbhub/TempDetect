@@ -1,0 +1,42 @@
+[
+	{
+		"name": "5.5.2:创建或修改测温区域R1",
+		"method": "PUT",
+		"url": "/isp/instrument/objects/regions/R1",
+		"data": {
+			"avg": true,
+			"alarm-t": 100,
+			"api-visible": true,
+			"distance": 1,
+			"emissivity": 1,
+			"label": "R1",
+			"layer": 0,
+			"mb-slot": 0,
+			"offset": 0,
+			"osd-visible": true,
+			"polygon": [
+				{
+					"x": 39,
+					"y": 103
+				},
+				{
+					"x": 39,
+					"y": 175
+				},
+				{
+					"x": 105,
+					"y": 175
+				},
+				{
+					"x": 93,
+					"y": 109
+				},
+				{
+					"x": 93,
+					"y": 109
+				}
+			],
+			"reflect-t": 20
+		}
+	}	
+]

@@ -1,0 +1,11 @@
+c:\users\shenkaibin\documents\visual studio 2015\Projects\TemDetect\TemDetect\bin\Debug\TemDetect.exe.config
+c:\users\shenkaibin\documents\visual studio 2015\Projects\TemDetect\TemDetect\bin\Debug\TemDetect.exe
+c:\users\shenkaibin\documents\visual studio 2015\Projects\TemDetect\TemDetect\bin\Debug\TemDetect.pdb
+c:\users\shenkaibin\documents\visual studio 2015\Projects\TemDetect\TemDetect\obj\Debug\TemDetect.csprojResolveAssemblyReference.cache
+c:\users\shenkaibin\documents\visual studio 2015\Projects\TemDetect\TemDetect\obj\Debug\TemDetect.Properties.Resources.resources
+c:\users\shenkaibin\documents\visual studio 2015\Projects\TemDetect\TemDetect\obj\Debug\TemDetect.csproj.GenerateResource.Cache
+c:\users\shenkaibin\documents\visual studio 2015\Projects\TemDetect\TemDetect\obj\Debug\TemDetect.exe
+c:\users\shenkaibin\documents\visual studio 2015\Projects\TemDetect\TemDetect\obj\Debug\TemDetect.pdb
+c:\users\shenkaibin\documents\visual studio 2015\Projects\TemDetect\TemDetect\bin\Debug\CSkin.dll
+c:\users\shenkaibin\documents\visual studio 2015\Projects\TemDetect\TemDetect\bin\Debug\CSkin.xml
+c:\users\shenkaibin\documents\visual studio 2015\Projects\TemDetect\TemDetect\obj\Debug\TemDetect.MainFrm.resources

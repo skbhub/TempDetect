@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ArrayOfRegions xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Regions>
+    <Polygon />
+    <Point>
+      <Point>
+        <X>372</X>
+        <Y>76</Y>
+      </Point>
+      <IsTemp>false</IsTemp>
+    </Point>
+    <Threshold>23</Threshold>
+    <WidthRatio>1.20833337</WidthRatio>
+    <HeightRatio>1.62847221</HeightRatio>
+    <ID>9</ID>
+  </Regions>
+</ArrayOfRegions>
